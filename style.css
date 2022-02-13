@@ -1,14 +1,17 @@
 h1 {
   color:#aff288; 
-  font-family:"Lucida Handwriting";
-  font-size:30px;
+  font-family: "Lucida Handwriting";
+  font-size:50px;
 } 
 h2 {
   color:#f2b67e;
-  font-family:"Lucida Handwriting";
-  font-size:25px;
+  font-family: "Lucida Handwriting";
+  font-size:50px;
+  font-weight: bold;
 }
 
 P {
-  
+  color:#b1d9fc;
+  font-family: "Lucida Handwriting";
+  font-size:25px;
 }
