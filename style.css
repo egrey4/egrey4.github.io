@@ -2,17 +2,20 @@ h1 {
   color:#aff288; 
   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
   font-size:50px;
+  text-align: center;
+    text-shadow: 2px 2px;
 } 
 h2 {
   color:#f2b67e;
   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
   font-size:50px;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 P {
   color:#b1d9fc;
   font-family: "Lucida Handwriting";
   font-size:25px;
-  background-color: 
+  background-color:#ebd6ff;
 }
