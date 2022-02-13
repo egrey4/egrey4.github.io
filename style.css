@@ -1,10 +1,14 @@
 h1 {
   color:#aff288; 
-  font-family:Lucida Handwriting;
+  font-family:"Lucida Handwriting";
   font-size:30px;
 } 
 h2 {
   color:#f2b67e;
-  font-family:Lucida Handwriting;
+  font-family:"Lucida Handwriting";
   font-size:25px;
+}
+
+P {
+  
 }
