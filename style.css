@@ -1,5 +1,10 @@
 h1 {
   color:#aff288; 
-  background-color:pink;
   font-family:Lucida Handwriting;
+  font-size:30px;
 } 
+h2 {
+  color:#f2b67e;
+  font-family:Lucida Handwriting;
+  font-size:25px;
+}
