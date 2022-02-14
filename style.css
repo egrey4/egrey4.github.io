@@ -11,10 +11,12 @@ h2 {
   font-size:50px;
   font-weight: bold;
   text-decoration: underline;
+    text-align: center;
 }
 
 P {
   color:#113814;
   font-family: "Garamond";
   font-size:25px;
+    text-align: center;
 }
