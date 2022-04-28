@@ -1,14 +1,19 @@
 h1 {
-  color:#D3DACE; 
+  color: #D3DACE; 
   font-family: "futura";
   font-size:40px;
   text-align: left;
 } 
+
 section {
 height: 800px;
-  background-color:#A8B59D;
-  border:#D3DACE 1px;
+  background-color: #A8B59D;
+  border: #D3DACE 1px;
 }
   
+.hero {
+  background-color: #BDC8B5;
+}
+
   
   
