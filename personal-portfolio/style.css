@@ -1,6 +1,14 @@
 h1 {
-  color:#BCB88A; 
+  color:#D3DACE; 
   font-family: "futura";
   font-size:40px;
   text-align: left;
 } 
+section {
+height: 800px;
+  background-color:#A8B59D;
+  border:#D3DACE 1px;
+}
+  
+  
+  
