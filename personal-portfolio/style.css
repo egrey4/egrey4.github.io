@@ -1,9 +1,10 @@
 h1 {
   color: #D3DACE; 
   font-family: "futura";
-  font-size:40px;
+  font-size:50px;
   text-align: left;
 } 
+
 
 section {
 height: 500px;
@@ -11,14 +12,15 @@ height: 500px;
   border: #D3DACE 1px;
 }
   
+
 .hero {
   background-color: #BDC8B5;
   
   
-  p {
-        color: grey
-      text-size:20px
-          font-family: "Garamond";
+ p {
+   color: #808080;
+      text-size:20px;
+          font-family: "Futura";
     font-size:25px;
     text-align: center;
   }
