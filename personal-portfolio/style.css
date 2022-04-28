@@ -1,12 +1,12 @@
 h1 {
-  color: #D3DACE; 
+  color: #363d31; 
   font-family: "futura";
   font-size:75px;
   text-align: center;
 } 
 
 h2 {
-  color: #D3DACE; 
+  color: #545e4d; 
   font-family: "futura";
   font-size:40px;
   text-align: left;
@@ -28,7 +28,7 @@ height: 500px;
       text-size:20px;
           font-family: "Futura";
     font-size:25px;
-    text-align: center;
+    text-align: left;
   }
       
   
