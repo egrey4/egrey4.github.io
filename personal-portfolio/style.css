@@ -13,6 +13,16 @@ height: 500px;
   
 .hero {
   background-color: #BDC8B5;
+  
+  
+  p {
+        color: grey
+      text-size:20px
+          font-family: "Garamond";
+    font-size:25px;
+    text-align: center;
+  }
+      
 
 
   
