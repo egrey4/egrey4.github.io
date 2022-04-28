@@ -12,6 +12,13 @@ h2 {
   text-align: left;
 } 
 
+h3 {
+  color: #545e4d; 
+  font-family: "futura";
+  font-size:20px;
+  text-align: left;
+} 
+
 section {
 height: 500px;
   background-color: #A8B59D;
