@@ -33,7 +33,7 @@ border: #D3DACE 1px;
  P {
    color:#363d31;
    font-family: "courier";
-   font-size:15px;
+   font-size:25px;
    text-align:left;
   }
       
@@ -41,7 +41,7 @@ border: #D3DACE 1px;
   img {
   display: block;
   width: 20%;
-  border-radius: 20%
+  border-radius: 20%;
 }
 
 
